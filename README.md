@@ -12,7 +12,7 @@ The photo below shows the details of TTGO-T7:
 
 ![TTGO T7 Mini32 V1.3 Detail](https://github.com/danito-net/sAIns-digital/blob/main/esp32/images/TTGO-T7-Mini32-V13.png)
 
-[TTGO T7 Mini32 V1.3 Pinout](https://github.com/danito-net/sAIns-digital/blob/main/esp32/images/ttgo-t7-mini32-v13-pinout.png)
+![TTGO T7 Mini32 V1.3 Pinout](https://github.com/danito-net/sAIns-digital/blob/main/esp32/images/ttgo-t7-mini32-v13-pinout.png)
 
 Using [Airgain N2420 2.4GHz](https://www.arcantenna.com/products/n2420-pk1-g100u-airgain-dual-band-2-4-2-49-ghz-pcb-plug-and-play-antenna-with-100-mm-cable-and-u-fl-connector) external anttena for the TTGO-T7:
 

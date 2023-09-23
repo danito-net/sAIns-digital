@@ -2,6 +2,14 @@
 
 (This repository is to complete the requirements for [CYIENT CyientifIQ Innovation League - Global Hackathon 2023](https://cyient.hackerearth.com/))
 
+## sAIns-server
+
+The sAIns-server will carrying out the main processes and become the main storage
+
+## sAIns-sense
+
+The sAIns-sense devices will taking measurements using sensors
+
 ![ESP32 + External + Antenna + Battery](https://github.com/danito-net/sAIns-digital/blob/main/esp32/images/esp32-antenna-battery.png)
 
 

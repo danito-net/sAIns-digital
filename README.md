@@ -2,11 +2,17 @@
 
 (This repository is to complete the requirements for [CYIENT CyientifIQ Innovation League - Global Hackathon 2023](https://cyient.hackerearth.com/))
 
-## sAIns-server
+## sAIns-controller
 
-The sAIns-server will carrying out the main processes and become the main storage
+The sAIns-controller will carrying out the main processes and become the main storage
 
 ## sAIns-sense
+
+The sAIns-sense devices will taking measurements using sensors
+
+
+![UNIHIKER](https://github.com/danito-net/sAIns-digital/blob/main/unihiker/images/unihiker-front-back.jpg)
+
 
 The sAIns-sense devices will taking measurements using sensors
 

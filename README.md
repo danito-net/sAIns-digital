@@ -8,8 +8,9 @@ The sAIns-controller will carrying out the main processes and become the main st
 
 ## sAIns-sense
 
-The sAIns-sense devices will taking measurements using sensors
+The sAIns-sense devices will sense the environtment, condition and taking measurements using sensors
 
+There are several types of sAIns-sense device ; the first one is using UNIHIKER.
 
 ![UNIHIKER](https://github.com/danito-net/sAIns-digital/blob/main/unihiker/images/unihiker-sains-digital.jpg)
 

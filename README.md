@@ -30,11 +30,12 @@ There are several types of sAIns-sense device ; the first one is using [UNIHIKER
 * Size: 51.6mmx83mmx13mm
 * OS: Linux Debian
 
+![DFRobot Gravity DHT20 temperature and humidity sensors](https://github.com/danito-net/sAIns-digital/blob/main/sensors/images/gravity-dht20-sensor.jpg)
+
 The sAIns-sense devices will taking measurements using sensors
 
 ![ESP32 + External + Antenna + Battery](https://github.com/danito-net/sAIns-digital/blob/main/esp32/images/esp32-antenna-battery.png)
 
-![DFRobot Gravity DHT20 temperature and humidity sensors](https://github.com/danito-net/sAIns-digital/blob/main/sensors/images/gravity-dht20-sensor.jpg)
 
 In this project, I use a microcontroller based on the ESP32 chip which has an external antenna and battery sockets: [LilyGO / TTGO T7 Mini32 V 1.3](https://www.lilygo.cc/products/t7-v1-3-mini-32-esp32) (Hereafter it will be referred as TTGO-T7)
 

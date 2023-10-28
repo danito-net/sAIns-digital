@@ -14,6 +14,21 @@ There are several types of sAIns-sense device ; the first one is using [UNIHIKER
 
 ![UNIHIKER](https://github.com/danito-net/sAIns-digital/blob/main/unihiker/images/unihiker-sains-digital.jpg)
 
+### UNIHIKER's Technical Specification
+
+* CPU: Quad-Core ARM Cortex-A35, up to 1.2GHz
+* RAM: 512MB
+* Flash: 16GB
+* Wi-Fi: 2.4G
+* BT: Bluetooth 4.0
+* Screen: 2.8inch, 240×320, Touch Screen
+* MCU: GD32VF103
+* Sensor: Button, Microphone, Light Sensor, Accelerometer Sensor, Gyroscope Sensor
+* Actuator: Led, Buzzer
+* Port: USB Type-C, USB-A, Gravity 3pin&4pin port, Edge connector
+* Power: 5V 2A for USB Type-C
+* Size: 51.6mmx83mmx13mm
+* OS: Linux Debian
 
 The sAIns-sense devices will taking measurements using sensors
 

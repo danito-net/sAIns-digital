@@ -11,7 +11,7 @@ The sAIns-controller will carrying out the main processes and become the main st
 The sAIns-sense devices will taking measurements using sensors
 
 
-![UNIHIKER](https://github.com/danito-net/sAIns-digital/blob/main/unihiker/images/unihiker-front-back.jpg)
+![UNIHIKER](https://github.com/danito-net/sAIns-digital/blob/main/unihiker/images/unihiker-sains-digital.jpg)
 
 
 The sAIns-sense devices will taking measurements using sensors

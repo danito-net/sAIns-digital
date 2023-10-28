@@ -10,7 +10,7 @@ The sAIns-controller will carrying out the main processes and become the main st
 
 The sAIns-sense devices will sense the environtment, condition and taking measurements using sensors
 
-There are several types of sAIns-sense device ; the first one is using UNIHIKER.
+There are several types of sAIns-sense device ; the first one is using [UNIHIKER](https://www.dfrobot.com/product-2691.html) Single Board Computer.
 
 ![UNIHIKER](https://github.com/danito-net/sAIns-digital/blob/main/unihiker/images/unihiker-sains-digital.jpg)
 

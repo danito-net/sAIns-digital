@@ -23,6 +23,6 @@ while True:
 
       print(" ")
       print("Temperature =", "{:.2f}\N{DEGREE SIGN}C".format(temperature))
-      print("Humidity =", "{:.2f}%".format(humidity))
+      print("Humidity =", "{:.2f}%RH".format(humidity))
 
       time.sleep(1)

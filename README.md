@@ -2,6 +2,8 @@
 
 (This repository is to complete the requirements for [CYIENT CyientifIQ Innovation League - Global Hackathon 2023](https://cyient.hackerearth.com/))
 
+![desk-sAIns](https://github.com/danito-net/sAIns-digital/blob/main/desk-sAIns/images/desk-sAIns-cyient.png)
+
 ## sAIns-controller
 
 The sAIns-controller will carrying out the main processes and become the main storage

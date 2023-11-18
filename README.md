@@ -59,6 +59,7 @@ Using DFRobot 0.3 Mega Pixwls USB camera for taking a photo or video:
 
 For more detail information, please click the official page: [DFRobot 0.3MP USB Camera](https://www.dfrobot.com/product-2089.html)
 
+Altough from the camera's official page stated that the resolution is 640x480 pixels; from `v4l2-ctl --list-formats-ext` command, the maximum resolution is 1280 x 960 pixels.
 
 For power supply, using Waveshare UPS Module 3S:
 

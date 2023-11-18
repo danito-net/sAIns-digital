@@ -14,9 +14,6 @@ There are several types of sAIns-sense device ; the first one is using [UNIHIKER
 
 ![DFRobot UNIHIKER](https://github.com/danito-net/sAIns-digital/blob/main/unihiker/images/dfrobot-unihiker.png)
 
-Alternative image:
-
-![UNIHIKER](https://github.com/danito-net/sAIns-digital/blob/main/unihiker/images/unihiker-sains-digital.jpg)
 
 ### UNIHIKER's Technical Specification
 

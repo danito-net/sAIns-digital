@@ -61,6 +61,8 @@ For more detail information, please click the official page: [DFRobot 0.3MP USB 
 
 Altough from the camera's official page stated that the resolution is 640x480 pixels; from `v4l2-ctl --list-formats-ext` command, the maximum resolution is 1280 x 960 pixels.
 
+![v4l2-ctl --list-formats-ext command output](https://github.com/danito-net/sAIns-digital/blob/main/camera/dfrobot-03-mp-usb-camera/images/v4l2-ctl--list-formats-ext.png)
+
 For power supply, using Waveshare UPS Module 3S:
 
 ![Waveshare UPS Module 3S](https://github.com/danito-net/sAIns-digital/blob/main/ups/waveshare-ups-module-3s/images/waveshare-ups-module-3s.png)

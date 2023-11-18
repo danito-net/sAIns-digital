@@ -30,6 +30,11 @@ There are several types of sAIns-sense device ; the first one is using [UNIHIKER
 * Size: 51.6mmx83mmx13mm
 * OS: Linux Debian
 
+Using DFRobot 0.3 Mega Pixwls USB camera for taking a photo or video:
+
+![DFRobot 0.3 Mega Pixels USB Camera](https://github.com/danito-net/sAIns-digital/blob/main/camera/dfrobot-03-mp-usb-camera/images/dfrobot-03mp-usb-camera.png)
+
+
 Using DFRobot Gravity DHT20 for temperature and humidity sensor:
 
 ![DFRobot Gravity DHT20](https://github.com/danito-net/sAIns-digital/blob/main/sensors/images/gravity-dht20-sensor.jpg)

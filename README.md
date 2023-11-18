@@ -8,7 +8,9 @@ The sAIns-controller will carrying out the main processes and become the main st
 
 ## desk-sAIns
 
-The sAIns-sense devices will sense the environtment, condition and taking measurements using sensors
+The desk-sAIns devices place on a desk in the laboratory to sense the environtment, condition and taking measurements using sensors, take a photo or video when it necessary and connected to laboratory's instruments.
+
+![desk-sAIns' Hardware](https://github.com/danito-net/sAIns-digital/blob/main/desk-sAIns/images/desk-sains-hardware.png)
 
 There are several types of sAIns-sense device ; the first one is using [UNIHIKER](https://www.dfrobot.com/product-2691.html) Single Board Computer.
 

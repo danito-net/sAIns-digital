@@ -40,6 +40,18 @@ Using DFRobot 0.3 Mega Pixwls USB camera for taking a photo or video:
 ![DFRobot 0.3 Mega Pixels USB Camera](https://github.com/danito-net/sAIns-digital/blob/main/camera/dfrobot-03-mp-usb-camera/images/dfrobot-03mp-usb-camera.png)
 
 
+### DFRobot 3 Mega Pixels USB Camera Technical Specification
+
+* Sensor type: CMOS
+* IR Filter: 650 ± 10nm
+* Resolution: 640 x 480 pixels (0.3 Mega Pixels)
+* Field of View: 70 degrees
+* AGC/AEC/AWB: Auto
+* Operating voltage: 5V (USB-A)
+
+Source: [DFRobot 0.3MP USB Camera](https://www.dfrobot.com/product-2089.html)
+
+
 For power supply, using Waveshare UPS Module 3S:
 
 ![Waveshare UPS Module 3S](https://github.com/danito-net/sAIns-digital/blob/main/ups/waveshare-ups-module-3s/images/waveshare-ups-module-3s.png)

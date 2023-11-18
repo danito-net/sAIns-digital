@@ -6,7 +6,7 @@
 
 The sAIns-controller will carrying out the main processes and become the main storage
 
-## sAIns-sense
+## desk-sAIns
 
 The sAIns-sense devices will sense the environtment, condition and taking measurements using sensors
 

@@ -14,7 +14,7 @@ The desk-sAIns devices place on a desk in the laboratory to sense the environtme
 
 ![desk-sAIns' Hardware](https://github.com/danito-net/sAIns-digital/blob/main/desk-sAIns/images/desk-sains-hardware.png)
 
-There are several types of sAIns-sense device ; the first one is using [UNIHIKER](https://www.dfrobot.com/product-2691.html) Single Board Computer.
+desk-sAIns using UNIHIKER, a Linux based Single Board Computer.
 
 ![DFRobot UNIHIKER](https://github.com/danito-net/sAIns-digital/blob/main/unihiker/images/dfrobot-unihiker.png)
 
@@ -35,6 +35,8 @@ There are several types of sAIns-sense device ; the first one is using [UNIHIKER
 * Size: 51.6mmx83mmx13mm
 * OS: Linux Debian
 
+For more detail information, please click the official page: [DFRobot UNIHIKER](https://www.dfrobot.com/product-2691.html)
+
 Using DFRobot 0.3 Mega Pixwls USB camera for taking a photo or video:
 
 ![DFRobot 0.3 Mega Pixels USB Camera](https://github.com/danito-net/sAIns-digital/blob/main/camera/dfrobot-03-mp-usb-camera/images/dfrobot-03mp-usb-camera.png)
@@ -49,7 +51,7 @@ Using DFRobot 0.3 Mega Pixwls USB camera for taking a photo or video:
 * AGC/AEC/AWB: Auto
 * Operating voltage: 5V (USB-A)
 
-Source: [DFRobot 0.3MP USB Camera](https://www.dfrobot.com/product-2089.html)
+For more detail information, please click the official page: [DFRobot 0.3MP USB Camera](https://www.dfrobot.com/product-2089.html)
 
 
 For power supply, using Waveshare UPS Module 3S:

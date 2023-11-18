@@ -2,7 +2,7 @@
 
 (This repository is to complete the requirements for [CYIENT CyientifIQ Innovation League - Global Hackathon 2023](https://cyient.hackerearth.com/))
 
-![desk-sAIns](https://github.com/danito-net/sAIns-digital/blob/main/desk-sAIns/images/desk-sAIns-cyient.png)
+![MiniServer sAIns-digital and desk-sAIns](https://github.com/danito-net/sAIns-digital/blob/main/MiniServer-sAIns-digital/images/MiniServer-desk-sAIns-digital-cyient.png)
 
 ## MiniServer sAIns-digital
 
@@ -15,6 +15,8 @@ The MiniServer sAIns-digital will carrying out the main processes and storage
 ## desk-sAIns
 
 The desk-sAIns devices place on a desk in the laboratory to sense the environtment, condition and taking measurements using sensors, take a photo or video when it necessary and connected to laboratory's instruments.
+
+![desk-sAIns](https://github.com/danito-net/sAIns-digital/blob/main/desk-sAIns/images/desk-sAIns-cyient.png)
 
 ![desk-sAIns' Hardware](https://github.com/danito-net/sAIns-digital/blob/main/desk-sAIns/images/desk-sains-hardware.png)
 

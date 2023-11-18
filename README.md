@@ -36,6 +36,11 @@ Using DFRobot 0.3 Mega Pixwls USB camera for taking a photo or video:
 ![DFRobot 0.3 Mega Pixels USB Camera](https://github.com/danito-net/sAIns-digital/blob/main/camera/dfrobot-03-mp-usb-camera/images/dfrobot-03mp-usb-camera.png)
 
 
+For power supply, using Waveshare UPS Module 3S:
+
+![Waveshare UPS Module 3S](https://github.com/danito-net/sAIns-digital/blob/main/ups/waveshare-ups-module-3s/images/waveshare-ups-module-3s.png)
+
+
 Using DFRobot Gravity DHT20 for temperature and humidity sensor:
 
 ![DFRobot Gravity DHT20](https://github.com/danito-net/sAIns-digital/blob/main/sensors/images/gravity-dht20-sensor.jpg)

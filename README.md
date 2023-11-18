@@ -4,9 +4,13 @@
 
 ![desk-sAIns](https://github.com/danito-net/sAIns-digital/blob/main/desk-sAIns/images/desk-sAIns-cyient.png)
 
-## sAIns-controller
+## MiniServer sAIns-digital
 
-The sAIns-controller will carrying out the main processes and become the main storage
+The MiniServer sAIns-digital will carrying out the main processes and storage
+
+![MiniServer sAIns-digital front side](https://github.com/danito-net/sAIns-digital/blob/main/MiniServer-sAIns-digital/images/MiniServer-sAIns-digital-front.png)
+
+![MiniServer sAIns-digital back side](https://github.com/danito-net/sAIns-digital/blob/main/MiniServer-sAIns-digital/images/MiniServer-sAIns-digital-back.png)
 
 ## desk-sAIns
 

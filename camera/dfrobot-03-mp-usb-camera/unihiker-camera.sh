@@ -13,11 +13,11 @@ delay=5
 # the default SDCard location in UNIHIKER is /media/mmcblk0p1
 sdcard="/media/mmcblk0p1"
 
-# change current operation location to external storage
-cd $sdcard
-
 # looping process
 while :; do
+
+      # change current operation location to external storage
+      cd $sdcard
 
       year=$(date '+%Y')
       month=$(date '+%m')

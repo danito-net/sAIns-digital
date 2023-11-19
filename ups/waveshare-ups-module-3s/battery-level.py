@@ -39,6 +39,8 @@ gui.draw_line(x0=192, y0=288, x1=192, y1=320, width=1, color=(0, 0, 0))
 
 stat = " "
 
+value_battery_level = gui.draw_text(x=54, y=295, text = str(battery_level) + "%", color="black", font_size=10)
+
 while True:
 
       bus_voltage = float(ina1.get_bus_voltage_mv() / 1000)
@@ -50,9 +52,6 @@ while True:
       if(battery_level < 0):battery_level = 0
 
       if (prev_battery_level != battery_level):
-
-         # covering the previous percentage value with white blocked-cursor
-         gui.draw_text(x=54, y=295, text="\u2588\u2588", color="white", font_size=10)
 
          if (battery_level  <= 100) & (battery_level  > 80):
             img = gui.draw_image(x = 4, y = 295, w = 40, h = 20, image='/home/sAIns-digital/images/battery-level-100.png')
@@ -67,7 +66,7 @@ while True:
          else:
             img = gui.draw_image(x = 4, y = 295, w = 40, h = 20, image='/home/sAIns-digital/images/battery-level-0.png')
 
-         gui.draw_text(x=54, y=295, text = str(battery_level) + "%", color="black", font_size=10)
+         value_battery_level.config(text = str(battery_level) + "%")
 
       prev_battery_level = battery_level
 

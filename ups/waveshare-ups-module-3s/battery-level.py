@@ -56,7 +56,7 @@ while True:
          img_battery_level.config(image = '/home/sAIns-digital/images/battery-level-40.png')
       elif 61 <= battery_level < 81:
          img_battery_level.config(image = '/home/sAIns-digital/images/battery-level-60.png')
-      elif 61 <= battery_level < 81:
+      elif 81 <= battery_level < 96:
          img_battery_level.config(image = '/home/sAIns-digital/images/battery-level-80.png')
       else:
          img_battery_level.config(image = '/home/sAIns-digital/images/battery-level-100.png')

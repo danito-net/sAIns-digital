@@ -8,7 +8,6 @@
 
 import time
 from datetime import datetime
-import shutil
 from unihiker import GUI
 from pinpong.board import Board
 from pinpong.libs.dfrobot_ina219 import INA219

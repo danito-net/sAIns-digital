@@ -19,10 +19,10 @@ while :; do
       # change current operation location to external storage
       cd $sdcard
 
+      # get the current year, month, date, hour, minute and second
       year=$(date '+%Y')
       month=$(date '+%m')
       date=$(date '+%d')
-
       hour=$(date '+%H')
       minute=$(date '+%M')
       second=$(date '+%S')

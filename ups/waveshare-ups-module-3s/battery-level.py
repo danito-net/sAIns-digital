@@ -39,7 +39,8 @@ gui.draw_line(x0=192, y0=288, x1=192, y1=320, width=1, color=(0, 0, 0))
 
 stat = " "
 
-value_battery_level = gui.draw_text(x=54, y=295, text = str(battery_level) + "%", color="black", font_size=10)
+img_battery_level = gui.draw_image(x = 4, y = 295, w = 40, h = 20, image='/home/sAIns-digital/images/battery-level-0.png')
+val_battery_level = gui.draw_text(x=54, y=295, text = str(battery_level) + "%", color="black", font_size=10)
 
 while True:
 
@@ -54,19 +55,19 @@ while True:
       if (prev_battery_level != battery_level):
 
          if (battery_level  <= 100) & (battery_level  > 80):
-            img = gui.draw_image(x = 4, y = 295, w = 40, h = 20, image='/home/sAIns-digital/images/battery-level-100.png')
+            img_battery_level.config(image='/home/sAIns-digital/images/battery-level-100.png')
          elif (battery_level  <= 80) & (battery_level  > 60):
-            img = gui.draw_image(x = 4, y = 295, w = 40, h = 20, image='/home/sAIns-digital/images/battery-level-80.png')
+            img_battery_level.config(image='/home/sAIns-digital/images/battery-level-80.png')
          elif (battery_level  <= 60) & (battery_level  > 40):
-            img = gui.draw_image(x = 4, y = 295, w = 40, h = 20, image='/home/sAIns-digital/images/battery-level-60.png')
+            img_battery_level.config(image='/home/sAIns-digital/images/battery-level-60.png')
          elif (battery_level  <= 40) & (battery_level  > 20):
-            img = gui.draw_image(x = 4, y = 295, w = 40, h = 20, image='/home/sAIns-digital/images/battery-level-40.png')
+            img_battery_level.config(image='/home/sAIns-digital/images/battery-level-40.png')
          elif (battery_level  <= 20) & (battery_level  > 0):
-            img = gui.draw_image(x = 4, y = 295, w = 40, h = 20, image='/home/sAIns-digital/images/battery-level-20.png')
+            img_battery_level.config(image='/home/sAIns-digital/images/battery-level-20.png')
          else:
-            img = gui.draw_image(x = 4, y = 295, w = 40, h = 20, image='/home/sAIns-digital/images/battery-level-0.png')
+            img_battery_level.config(image='/home/sAIns-digital/images/battery-level-0.png')
 
-         value_battery_level.config(text = str(battery_level) + "%")
+         val_battery_level.config(text = str(battery_level) + "%")
 
       prev_battery_level = battery_level
 

@@ -17,7 +17,12 @@ Board().begin()
 gui = GUI()
 gui.clear()
 
-gui.draw_line(x0=0, y0=288, x1=240, y1=320, width=1, color=(0, 0, 0))
+## footer status bar
+
+# footer horizontal line (separator)
+gui.draw_line(x0=0, y0=288, x1=240, y1=288, width=1, color=(0, 0, 0))
+
+# footer vertical line (separator)
 gui.draw_line(x0=48, y0=288, x1=48, y1=320, width=1, color=(0, 0, 0))
 gui.draw_line(x0=96, y0=288, x1=96, y1=320, width=1, color=(0, 0, 0))
 gui.draw_line(x0=144, y0=288, x1=144, y1=320, width=1, color=(0, 0, 0))
